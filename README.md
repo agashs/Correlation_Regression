@@ -1,6 +1,5 @@
-# Correlation and regression for data analysis
-## Name  :AGASH S
-## Reg No:212224040014
+# EXP-03 Correlation and regression for data analysis
+## Date : 13.03.2025
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -22,6 +21,11 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
+```
+Developed by : AGASH S
+Register Number :212224040014
+
+```
 
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
